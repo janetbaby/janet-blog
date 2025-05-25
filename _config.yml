@@ -1,6 +1,6 @@
-title: "Janet's Finance Blog"
-description: "Deep dives into finance, tools, and data"
-baseurl: "" # Leave empty if hosted at root (e.g., janetbaby.github.io)
+title: Janet's Finance Blog
+description: Deep dives into finance, tools, and data
+baseurl: "" # Leave empty if using root GitHub Pages
 url: "https://janetbaby.github.io"
 
 theme: minima
@@ -15,4 +15,3 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
