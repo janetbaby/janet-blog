@@ -4,7 +4,7 @@ title: "Introduction to SAP CRM for Finance Professionals"
 categories: sap crm
 ---
 
-![SAP CRM Overview](../assets/images/sap-crm.jpeg)
+![SAP CRM Overview]({{ site.baseurl }}/assets/images/sap-crm.jpeg)
 
 SAP CRM (Customer Relationship Management) is a part of the SAP Business Suite that helps organizations manage their customer interactions effectively across all channels—sales, service, and marketing. While traditionally seen as a tool for customer-facing departments, SAP CRM also holds significant value for finance professionals. As businesses increasingly strive for customer-centricity and data-driven decision-making, finance departments play a pivotal role in aligning financial goals with customer satisfaction and retention. 
 
