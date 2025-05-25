@@ -1,13 +1,13 @@
-title: Janet's Finance Blog
-description: Deep dives into finance, tools, and data
-baseurl: "" # Leave empty if using root GitHub Pages
+title: "Janet's Finance Blog"
+description: "Deep dives into finance, tools, and data"
+baseurl: "" # Leave empty if hosted at root (e.g., janetbaby.github.io)
 url: "https://janetbaby.github.io"
 
 theme: minima
 
 header_pages:
-  - index.markdown
-  - about.markdown
+  - index.md
+  - about.md
 
 markdown: kramdown
 permalink: /:categories/:title/
