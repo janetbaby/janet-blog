@@ -6,8 +6,8 @@ url: "https://janetbaby.github.io"
 theme: minima
 
 header_pages:
-  - index.md
-  - about.md
+  - index.markdown
+  - about.markdown
 
 markdown: kramdown
 permalink: /:categories/:title/
