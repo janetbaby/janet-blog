@@ -4,7 +4,7 @@ title: "Top SQL Queries Every Financial Accountant Should Know"
 categories: finance sql
 ---
 
-<img src="{{ site.baseurl }}/assets/images/sql-finance.jpeg" alt="SQL for Financial Accounting" style="width:100%; height:auto;" />
+<img src="{{ site.baseurl }}/assets/images/sql-finance.png" alt="SQL for Financial Accounting" style="width:100%; height:auto;" />
 
 In today's data-driven world, financial accounting professionals are increasingly expected to work closely with large datasets and enterprise systems. Whether you’re extracting data for financial reports, performing reconciliations, or analyzing cash flow patterns, SQL (Structured Query Language) is a powerful tool that helps accountants gain direct access to financial data. 
 
@@ -49,8 +49,8 @@ GROUP BY account_code;
 ```
 This allows you to quickly review whether debits and credits are balanced, a critical step in monthly close.
 
-3. Aged Receivables Report
-An aged receivables report helps you identify overdue customer balances. Assume you have an invoices table with invoice_date and due_date fields.
+## 3. Aged Receivables Report
+An aged receivables report helps you identify overdue customer balances. Assume you have an `invoices` table with `invoice_date` and `due_date` fields.
 
 ```sql
 SELECT customer_id,
