@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Janet's Finance Blog
-description: Simple insights into finance, money, and growth
+title: Janet's Finance Journey..!
+description: Just my scribblings on finance, money, growth—and a bit of everything in between.
 author: Janet Baby
 theme: minima
 
