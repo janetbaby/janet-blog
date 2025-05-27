@@ -24,12 +24,12 @@ The most popular version until recently was **Tally.ERP 9**, which has now evolv
 
 Tally ERP is widely adopted for several reasons:
 
-- ✅ **Ease of Use**: Simple interface with keyboard shortcuts.
-- ✅ **Comprehensive Accounting**: From journal entries to trial balance and balance sheet.
-- ✅ **GST-Ready**: Full compliance with India’s Goods and Services Tax.
-- ✅ **Multi-user Access**: Designed for use across departments.
-- ✅ **Customization**: Supports TDL (Tally Definition Language) for tailoring features.
-- ✅ **Low System Requirements**: Can run on modest hardware with minimal infrastructure.
+- - **Ease of Use**: Simple interface with keyboard shortcuts.
+- - **Comprehensive Accounting**: From journal entries to trial balance and balance sheet.
+- - **GST-Ready**: Full compliance with India’s Goods and Services Tax.
+- - **Multi-user Access**: Designed for use across departments.
+- - **Customization**: Supports TDL (Tally Definition Language) for tailoring features.
+- - **Low System Requirements**: Can run on modest hardware with minimal infrastructure.
 
 ---
 
@@ -127,7 +127,7 @@ Tally strikes a balance between affordability, functionality, and compliance—m
 
 ## Role of Tally ERP in Modern Accounting Practices
 
-### ✅ Real-Time Reporting
+### - Real-Time Reporting
 
 Tally provides instant reports like:
 
@@ -139,7 +139,7 @@ Tally provides instant reports like:
 
 This helps management make faster, data-driven decisions.
 
-### ✅ Cloud Access (Tally on Cloud)
+### - Cloud Access (Tally on Cloud)
 
 Although Tally is traditionally a desktop application, many businesses now host it on cloud servers, offering:
 
@@ -149,7 +149,7 @@ Although Tally is traditionally a desktop application, many businesses now host 
 
 This aligns with the remote and hybrid work trends.
 
-### ✅ Audit and Internal Control
+### - Audit and Internal Control
 
 The **Tally Audit** feature lets auditors review all financial transactions and detect:
 
@@ -159,14 +159,14 @@ The **Tally Audit** feature lets auditors review all financial transactions and 
 
 This is crucial during statutory audits or internal audits.
 
-### ✅ E-Invoicing and E-Way Bill Generation
+### - E-Invoicing and E-Way Bill Generation
 
 Modern versions (with TallyPrime and add-ons) support:
 
 - E-Invoicing compliant with Indian tax norms
 - E-Way bill generation for transport compliance
 
-### ✅ Integration with Business Functions
+### - Integration with Business Functions
 
 Tally is not just for accounting. It integrates with:
 

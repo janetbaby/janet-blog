@@ -31,10 +31,10 @@ FDWF acts as a **centralized data model** that harmonizes finance-relevant infor
 
 Financial reporting isn’t just about balance sheets or income statements. Organizations need to:
 
-✅ Combine financial and operational data  
-✅ Consolidate figures across business units and geographies  
-✅ Ensure data governance and auditability  
-✅ Generate **real-time, interactive reports** for decision-making
+- Combine financial and operational data
+- Consolidate figures across business units and geographies
+- Ensure data governance and auditability
+- Generate **real-time, interactive reports** for decision-making
 
 **FDWF solves these needs** by providing a consistent layer between raw transactional systems (like SAP S/4HANA or ECC) and reporting layers (like SAP Analytics Cloud or BI platforms).
 
@@ -101,12 +101,12 @@ Generate reports for month-end, quarter-end, and year-end financial closes with 
 
 Here’s what finance teams gain from implementing FDWF:
 
-✅ **Consistency** in data and logic across entities  
-✅ **Faster month-end closing** and fewer manual reconciliations  
-✅ **Standardized reporting KPIs** across business units  
-✅ **Single source of truth** for all financial reporting needs  
-✅ **Data governance** with audit trails and role-based access  
-✅ **Scalability** as your company grows or acquires new units
+- **Consistency** in data and logic across entities
+- **Faster month-end closing** and fewer manual reconciliations
+- **Standardized reporting KPIs** across business units
+- **Single source of truth** for all financial reporting needs
+- **Data governance** with audit trails and role-based access
+- **Scalability** as your company grows or acquires new units
 
 ---
 

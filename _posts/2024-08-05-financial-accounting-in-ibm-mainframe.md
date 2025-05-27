@@ -31,11 +31,11 @@ Financial accounting involves recording, summarizing, and reporting financial tr
 
 IBM Mainframes are ideal for financial accounting because they offer:
 
-✅ **Unmatched reliability (99.999% uptime)**  
-✅ **Support for high-volume batch and online processing**  
-✅ **Secure, auditable environments** for compliance  
-✅ **Integration with legacy and modern financial applications**  
-✅ **High-speed data access and real-time processing**
+- **Unmatched reliability (99.999% uptime)**
+- **Support for high-volume batch and online processing**
+- **Secure, auditable environments** for compliance
+- **Integration with legacy and modern financial applications**
+- **High-speed data access and real-time processing**
 
 ---
 
@@ -104,11 +104,11 @@ A typical financial accounting process on a mainframe might include:
 
 ## Advantages of Mainframe-Based Financial Accounting
 
-✅ **Stability** – Mainframes can run for years without downtime  
-✅ **Speed** – Millions of transactions can be processed in seconds  
-✅ **Security** – Role-based access, data encryption, and built-in audit trails  
-✅ **Longevity** – Systems built 30+ years ago still work efficiently  
-✅ **Regulatory Readiness** – Ideal for highly-regulated sectors like banking and insurance
+- **Stability** – Mainframes can run for years without downtime
+- **Speed** – Millions of transactions can be processed in seconds
+- **Security** – Role-based access, data encryption, and built-in audit trails
+- **Longevity** – Systems built 30+ years ago still work efficiently
+- **Regulatory Readiness** – Ideal for highly-regulated sectors like banking and insurance
 
 ---
 

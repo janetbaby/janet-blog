@@ -32,12 +32,12 @@ It’s a single platform for managing all **company spending**—subscriptions, 
 
 Spendesk is built with modern finance teams in mind. Here’s why it's increasingly adopted across Europe and beyond:
 
-- ✅ **User-friendly Interface**
-- ✅ **Real-time Visibility of Spending**
-- ✅ **No More Manual Receipts or Paperwork**
-- ✅ **Faster Month-end Closings**
-- ✅ **Empowers Employees While Retaining Control**
-- ✅ **Integrates with Accounting Software (Xero, QuickBooks, DATEV)**
+- - **User-friendly Interface**
+- - **Real-time Visibility of Spending**
+- - **No More Manual Receipts or Paperwork**
+- - **Faster Month-end Closings**
+- - **Empowers Employees While Retaining Control**
+- - **Integrates with Accounting Software (Xero, QuickBooks, DATEV)**
 
 ---
 
@@ -109,14 +109,14 @@ Export pre-coded transactions, matched with receipts and VAT details—saving ho
 
 ## Spendesk vs. Traditional Expense Management
 
-| Feature                    | Traditional Tools (Excel/ERP) | Spendesk       |
-| -------------------------- | ----------------------------- | -------------- |
-| Paperless Receipts         | ❌ Manual Uploads             | ✅ Yes         |
-| Real-Time Expense Tracking | ❌ Delayed                    | ✅ Instant     |
-| Pre-approvals              | ❌ Rarely Used                | ✅ Integrated  |
-| Employee Empowerment       | ❌ Limited                    | ✅ Smart Cards |
-| Month-End Close            | ❌ Time-Consuming             | ✅ Streamlined |
-| Accounting Integration     | ❌ Export/Import Hassle       | ✅ Seamless    |
+| Feature                    | Traditional Tools (Excel/ERP) | Spendesk      |
+| -------------------------- | ----------------------------- | ------------- |
+| Paperless Receipts         | ❌ Manual Uploads             | - Yes         |
+| Real-Time Expense Tracking | ❌ Delayed                    | - Instant     |
+| Pre-approvals              | ❌ Rarely Used                | - Integrated  |
+| Employee Empowerment       | ❌ Limited                    | - Smart Cards |
+| Month-End Close            | ❌ Time-Consuming             | - Streamlined |
+| Accounting Integration     | ❌ Export/Import Hassle       | - Seamless    |
 
 ---
 
@@ -128,7 +128,7 @@ Let’s walk through a real-world use case:
 
 Emma, a Marketing Manager, needs to run a paid campaign on LinkedIn for €1,000.
 
-### ✅ Using Spendesk:
+### - Using Spendesk:
 
 1. Emma logs in and requests €1,000 via virtual card.
 2. Her manager approves it instantly via mobile.
