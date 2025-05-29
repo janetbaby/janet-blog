@@ -42,10 +42,10 @@ When I’m not deep in Excel sheets or helping close month-end books, I’m prob
 
   <img src="../assets/images/bangkok.avif" alt="Bangkok" style="width: 180px; border-radius: 8px;">
   <img src="../assets/images/phuket.jpg" alt="Phuket" style="width: 180px; border-radius: 8px;">
-  <img src="../assets/images/hallstatt.jpg" alt="Hallstatt" style="width: 180px; border-radius: 8px;">
-  <img src="../assets/images/salzburg.jpg" alt="Salzburg" style="width: 180px; border-radius: 8px;">
+  <img src="../assets/images/hallstatt.HEIC" alt="Hallstatt" style="width: 180px; border-radius: 8px;">
+  <img src="../assets/images/salzburg.HEIC" alt="Salzburg" style="width: 180px; border-radius: 8px;">
   <img src="../assets/images/zurich.jpg" alt="Zurich" style="width: 180px; border-radius: 8px;">
-  <img src="../assets/images/berlin.jpg" alt="Berlin" style="width: 180px; border-radius: 8px;">
+  <img src="../assets/images/berlin.JPG" alt="Berlin" style="width: 180px; border-radius: 8px;">
   <img src="../assets/images/regensburg.jpg" alt="Regensburg" style="width: 180px; border-radius: 8px;">
   <img src="../assets/images/ooty.jpg" alt="Ooty" style="width: 180px; border-radius: 8px;">
   <img src="../assets/images/calicut.jpg" alt="Calicut" style="width: 180px; border-radius: 8px;">
