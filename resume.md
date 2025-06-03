@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Meet Janet – My Journey
+title: Professional Intro
 permalink: /resume/
 ---
 
 # 👋 Hey, I'm Janet!
 
-I'm a numbers girl with a soft spot for clean spreadsheets, crisp financial reports, and well-written SOPs. Currently living in **Munich 🇩🇪**, working part-time in **Accounts Payable at Personio**, and doing my **Master’s in International Business** in Landshut.
+I’m passionate about playing with numbers, financial clarity, clean spreadsheets, and crafting SOPs that actually make sense. Currently based in **Munich 🇩🇪**, I am a **Working student in Accounts Payable at Personio Munich** while pursuing my **Master’s in International Business** in **Hochschule Landshut**.
 
 ---
 
