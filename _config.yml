@@ -29,6 +29,7 @@ theme: minima
 header_pages:
   - index.md
   - about.md
+  - resume.md
 
 plugins:
   - jekyll-feed
