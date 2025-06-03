@@ -10,7 +10,7 @@ permalink: /about/
 
 ## Hi there, I’m Janet 👋
 
-✈️ The Day My New Chapter Began
+## ✈️ The Day My New Chapter Began
 On April 1st last year, just past midnight, I boarded Lufthansa LH 765—a fully packed flight leaving from Bangalore. As the plane soared into the sky, I felt a strange mix of excitement, fear, and quiet courage. I was heading to a country I had never set foot in before—Germany—alone, with no familiar faces to greet me, no one to call if things went wrong.
 
 I had done all the research I could. I had read the blogs, watched the videos, prepared my documents, and even reserved a student dorm in advance. But no amount of preparation could match the weight of that first moment when I stepped into a foreign land—cold, quiet, unfamiliar.
@@ -27,7 +27,7 @@ That single act of kindness was the beginning of many more. Since that day, Germ
 
 I started attending classes at my university in Landshut, threw myself into learning, and began applying for student jobs. I cleared my very first interview—with Personio—and started working in their Accounts Payable department. That opportunity changed everything. It gave me the confidence and ability to sponsor myself, to stand on my own in this new land.
 
-🌍 A Bit About Me
+## 🌍 A Bit About Me
 I enjoy working with numbers just as much as I enjoy discovering new places. Whether it’s spending time by the beach or walking through small towns in the mountains, I value quiet moments, new experiences, and learning from the people I meet along the way.
 
 By day, I work as a Working Student at Personio in Munich, where I support the Accounts Payable team. It’s a role that challenges me and teaches me something new every day. At the same time, I’m pursuing my Master’s in International Business at Hochschule Landshut, a journey that has expanded not just my knowledge, but also my world.
