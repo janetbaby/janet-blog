@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Janet
+title: About Me
 permalink: /about/
 ---
 
@@ -10,9 +10,29 @@ permalink: /about/
 
 ## Hi there, I’m Janet 👋
 
-I’m a finance enthusiast who also happens to love hopping on planes, sipping coconut water on sunny beaches, and exploring mountain towns! By day, I’m a **Working Student at Personio in Munich**, supporting the Accounts Payable team while working on my **Master’s in International Business** at **Hochschule Landshut**.
+✈️ The Day My New Chapter Began
+On April 1st last year, just past midnight, I boarded Lufthansa LH 765—a fully packed flight leaving from Bangalore. As the plane soared into the sky, I felt a strange mix of excitement, fear, and quiet courage. I was heading to a country I had never set foot in before—Germany—alone, with no familiar faces to greet me, no one to call if things went wrong.
 
-Before this, I worked at **Tesco Ltd** in various finance roles, where I helped sort invoices, analyze data, fix issues, and keep things running smoothly—basically making sure money stuff made sense!
+I had done all the research I could. I had read the blogs, watched the videos, prepared my documents, and even reserved a student dorm in advance. But no amount of preparation could match the weight of that first moment when I stepped into a foreign land—cold, quiet, unfamiliar.
+
+I reached my dorm, found the safe box, retrieved the key, and opened the door to what would now be my space. It was silent. I was truly alone. The world outside my window was entirely new—Munich, Germany—a place I had only seen through screens and brochures. Suddenly, all the confidence I had gathered began to feel fragile.
+
+Later that day, as hunger crept in, I searched online and walked to a nearby Lidl store, hoping to pick up a few snacks. I stood there, overwhelmed—unable to understand the labels, unsure how to ask, feeling lost and vulnerable.
+
+And then something happened I will never forget.
+
+A kind woman, probably in her seventies, noticed me. She didn’t speak my language, and I didn’t speak hers, but through gestures and warm smiles, she helped me—patiently, caringly. I understood everything she meant to say. In that moment, she made this foreign place feel a little like home.
+
+That single act of kindness was the beginning of many more. Since that day, Germany has never felt like a strange country again—it has slowly become my second home.
+
+I started attending classes at my university in Landshut, threw myself into learning, and began applying for student jobs. I cleared my very first interview—with Personio—and started working in their Accounts Payable department. That opportunity changed everything. It gave me the confidence and ability to sponsor myself, to stand on my own in this new land.
+
+🌍 A Bit About Me
+I enjoy working with numbers just as much as I enjoy discovering new places. Whether it’s spending time by the beach or walking through small towns in the mountains, I value quiet moments, new experiences, and learning from the people I meet along the way.
+
+By day, I work as a Working Student at Personio in Munich, where I support the Accounts Payable team. It’s a role that challenges me and teaches me something new every day. At the same time, I’m pursuing my Master’s in International Business at Hochschule Landshut, a journey that has expanded not just my knowledge, but also my world.
+
+Before stepping into life in Germany, I spent several years at Tesco Ltd, taking on different roles within the finance function. From sorting through complex invoices to analyzing financial data, resolving tricky issues, and building dashboards—I learned how to bring structure to chaos, and clarity to numbers. More importantly, I learned how much I enjoy helping systems run better and people feel supported in the process.
 
 ---
 
