@@ -11,21 +11,23 @@ permalink: /about/
 ## Hi there, I’m Janet 👋
 
 ## ✈️ The Day My New Chapter Began
-On April 1st last year, just past midnight, I boarded Lufthansa LH 765—a fully packed flight leaving from Bangalore. As the plane soared into the sky, I felt a strange mix of excitement, fear, and quiet courage. I was heading to a country I had never set foot in before—Germany—alone, with no familiar faces to greet me, no one to call if things went wrong.
+On April 1st last year, just past midnight, I boarded Lufthansa LH 765—a fully packed flight leaving from Bangalore. As the plane soared into the sky, I felt a strange mix of excitement, fear, and quiet courage. I was heading to a country I had never set foot in before — Germany, all alone, with no familiar faces to greet me, no one to call if things went wrong.
 
 I had done all the research I could. I had read the blogs, watched the videos, prepared my documents, and even reserved a student dorm in advance. But no amount of preparation could match the weight of that first moment when I stepped into a foreign land—cold, quiet, unfamiliar.
 
-I reached my dorm, found the safe box, retrieved the key, and opened the door to what would now be my space. It was silent. I was truly alone. The world outside my window was entirely new—Munich, Germany—a place I had only seen through screens and brochures. Suddenly, all the confidence I had gathered began to feel fragile.
+I reached my dorm, found the safe box, retrieved the key, and opened the door to what would now be my space. It was silent. I was truly alone. The world outside my window was entirely new, Munich, Germany, a place I had only seen through screens and brochures. Suddenly, all the confidence I had gathered began to feel fragile.
 
 Later that day, as hunger crept in, I searched online and walked to a nearby Lidl store, hoping to pick up a few snacks. I stood there, overwhelmed—unable to understand the labels, unsure how to ask, feeling lost and vulnerable.
 
 And then something happened I will never forget.
 
-A kind woman, probably in her seventies, noticed me. She didn’t speak my language, and I didn’t speak hers, but through gestures and warm smiles, she helped me—patiently, caringly. I understood everything she meant to say. In that moment, she made this foreign place feel a little like home.
+A kind woman, probably in her seventies, noticed me. She didn’t speak my language, and I didn’t speak hers, but through gestures and warm smiles, she helped me patiently, caringly. I understood everything she meant to say. In that moment, she made this foreign place feel a little like home.
 
 That single act of kindness was the beginning of many more. Since that day, Germany has never felt like a strange country again—it has slowly become my second home.
 
-I started attending classes at my university in Landshut, threw myself into learning, and began applying for student jobs. I cleared my very first interview—with Personio—and started working in their Accounts Payable department. That opportunity changed everything. It gave me the confidence and ability to sponsor myself, to stand on my own in this new land.
+I started attending classes at my university in Landshut, threw myself into learning, and began applying for student jobs. I cleared my very first interview with Personio and started working in their Accounts Payable department. That opportunity changed everything. It gave me the confidence and ability to sponsor myself, to stand on my own in this new land.
+
+---
 
 ## 🌍 A Bit About Me
 I enjoy working with numbers just as much as I enjoy discovering new places. Whether it’s spending time by the beach or walking through small towns in the mountains, I value quiet moments, new experiences, and learning from the people I meet along the way.
