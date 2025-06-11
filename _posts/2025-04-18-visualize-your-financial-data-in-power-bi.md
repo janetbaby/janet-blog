@@ -63,7 +63,7 @@ Here are essential financial KPIs and metrics that are often visualized in Power
 
 A well-designed financial dashboard in Power BI should give a high-level overview while allowing users to **drill down** into specifics. Here’s a step-by-step example:
 
-### 🛠️ Step 1: Import Financial Data
+### Step 1: Import Financial Data
 
 Use the “Get Data” option to connect to Excel or your ERP system. Load:
 
@@ -72,7 +72,7 @@ Use the “Get Data” option to connect to Excel or your ERP system. Load:
 - Profit & Loss (P&L) data
 - Cost centers or departments
 
-### 🎯 Step 2: Clean and Transform Data
+### Step 2: Clean and Transform Data
 
 Use **Power Query** to:
 
@@ -81,7 +81,7 @@ Use **Power Query** to:
 - Join related tables (e.g., transactions with account names)
 - Remove duplicates and errors
 
-### 📊 Step 3: Define Measures and KPIs
+### Step 3: Define Measures and KPIs
 
 Use **DAX (Data Analysis Expressions)** to create custom measures like:
 
@@ -90,7 +90,7 @@ Total Revenue = SUM(Financials[Revenue])
 Net Profit Margin = DIVIDE(SUM(Financials[Net Profit]), SUM(Financials[Revenue]))
 ```
 
-### 📈 Step 4: Create Visuals
+### Step 4: Create Visuals
 
 Use **the built-in visualizations to create:**
 
@@ -100,7 +100,7 @@ Use **the built-in visualizations to create:**
 - Cards for key figures (e.g., Net Income)
 - Matrix for P&L or balance sheet comparison
 
-### 🔍 Step 5: Add Filters and Slicers
+### Step 5: Add Filters and Slicers
 
 **Allow users to interact with the dashboard by:**
 
@@ -115,27 +115,27 @@ Use **the built-in visualizations to create:**
 
 | Metric            | Description                      |
 | ----------------- | -------------------------------- |
-| **🧮 KPI Cards**  | Revenue, Expenses, Profit Margin |
-| **📈 Line Chart** | Revenue vs Expenses Over Time    |
-| **📊 Bar Chart**  | Top Expense Categories           |
-| **🥧 Pie Chart**  | Revenue by Product Line          |
-| **📋 Table**      | Budget vs Actual by Department   |
-| **🔍 Slicers**    | Departmen, Location              |
+| **KPI Cards**  | Revenue, Expenses, Profit Margin |
+| **Line Chart** | Revenue vs Expenses Over Time    |
+| **Bar Chart**  | Top Expense Categories           |
+| **Pie Chart**  | Revenue by Product Line          |
+| **Table**      | Budget vs Actual by Department   |
+| **Slicers**    | Departmen, Location              |
 
 ---
 
 ## Real-World Use Cases
 
-- 💼 Finance Manager
+- Finance Manager
   Build monthly P&L dashboards for CFOs that compare actuals vs budget and highlight overspending.
 
-- 📊 FP&A Analyst
+- FP&A Analyst
   Analyze quarterly trends, forecast cash flow, and identify deviations early with dynamic visuals.
 
-- 🏢 Accounts Payable Team
+- Accounts Payable Team
   Monitor aging reports, track vendor payments, and automate due date alerts.
 
-- 🏦 Investment Firm
+- Investment Firm
   Visualize portfolio performance and returns in real time, with breakdowns by asset type.
 
 ---
@@ -170,10 +170,10 @@ Embed reports – Intranet portals or Microsoft Teams
 
 - _While Power BI is powerful, be mindful of:_
 
-- ❗ Data model size limits (especially in Power BI Pro)
-- ❗ Performance issues with large or poorly cleaned datasets
-- ❗ Ensuring data governance and version control
-- ❗ Proper DAX usage to avoid incorrect measures
+- Data model size limits (especially in Power BI Pro)
+- Performance issues with large or poorly cleaned datasets
+- Ensuring data governance and version control
+- Proper DAX usage to avoid incorrect measures
 
 Advanced users can overcome these by using Power BI Premium, Azure Synapse, or Paginated Reports for large datasets.
 
