@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Insight Edit: Journals of Janet
+title: "The Insight Edit: Journals of Janet"
 description: Just my scribblings on finance, money, growth—and a bit of everything in between.
 author: Janet Baby
 theme: minima
