@@ -8,9 +8,9 @@ permalink: /about/
 
 ---
 
-## Hi there, I’m Janet 👋
+## Hi there, I’m Janet
 
-## ✈️ The Day My New Chapter Began
+## The Day My New Chapter Began
 On April 1st last year, just past midnight, I boarded Lufthansa LH 765, a fully packed flight leaving from Bangalore. As the plane soared into the sky, I felt a strange mix of excitement, fear, and quiet courage. I was heading to a country I had never set foot in before — Germany, all alone, with no familiar faces to greet me, no one to call if things went wrong.
 
 I had done all the research I could. I had read the blogs, watched the videos, prepared my documents, and even reserved a student dorm in advance. But no amount of preparation could match the weight of that first moment when I stepped into a foreign land, cold, quiet, and unfamiliar.
@@ -29,7 +29,7 @@ I started attending classes at my university in Landshut, threw myself into lear
 
 ---
 
-## 🌍 A Bit About Me
+## A Bit About Me
 I enjoy working with numbers just as much as I enjoy discovering new places. Whether it’s spending time by the beach or walking through small towns in the mountains, I value quiet moments, new experiences, and learning from the people I meet along the way.
 
 By day, I work as a Working Student at Personio in Munich, where I support the Accounts Payable team. It’s a role that challenges me and teaches me something new every day. At the same time, I’m pursuing my Master’s in International Business at Hochschule Landshut, a journey that has expanded not just my knowledge, but also my world.
@@ -40,11 +40,11 @@ Before stepping into life in Germany, I spent several years at Tesco Ltd, taking
 
 ## What I Really Enjoy
 
-💸 Making numbers talk (accurately!)  
-📊 Turning messy data into neat reports  
-🤝 Working with teams to solve little finance puzzles  
-🧠 Learning about AI, finance tools, and new tech  
-📈 Keeping processes smooth and audit-ready
+Making numbers talk (accurately!)  
+Turning messy data into neat reports  
+Working with teams to solve little finance puzzles  
+Learning about AI, finance tools, and new tech  
+Keeping processes smooth and audit-ready
 
 I use tools like SAP, Power BI, Excel, and SQL daily—and honestly, getting things automated and organized makes me super happy.
 
@@ -54,11 +54,11 @@ I use tools like SAP, Power BI, Excel, and SQL daily—and honestly, getting thi
 
 When I’m not deep in Excel sheets or helping close month-end books, I’m probably planning my next getaway. I absolutely love traveling and soaking in new cultures, food, and scenery. Some favorite moments:
 
-🕌 Bangkok & Phuket – street food, temples, and ocean vibes  
-🏔️ Hallstatt & Salzburg – fairy-tale villages and mountain trains  
-🇨🇭 Zurich – peaceful lakeside walks and chocolate dreams  
-🇩🇪 Berlin, Regensburg – history, street art, and cozy cafés  
-🌿 Ooty, Calicut – misty hills, beaches and homemade chocolates
+Bangkok & Phuket – street food, temples, and ocean vibes  
+Hallstatt & Salzburg – fairy-tale villages and mountain trains  
+Zurich – peaceful lakeside walks and chocolate dreams  
+Berlin, Regensburg – history, street art, and cozy cafés  
+Ooty, Calicut – misty hills, beaches and homemade chocolates
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 20px;">
 
@@ -86,8 +86,8 @@ If you’re curious about finance, accounting, or love discovering new places, y
 
 Drop me a hello or a travel tip anytime:
 
-- 📧 [janetbaby2808@gmail.com](mailto:janetbaby2808@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/janet-baby-640484303)
+- [janetbaby2808@gmail.com](mailto:janetbaby2808@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/janet-baby-640484303)
 
-Thanks for reading and being here! 🌍💙  
+Thanks for reading and being here!
 **— Janet**
