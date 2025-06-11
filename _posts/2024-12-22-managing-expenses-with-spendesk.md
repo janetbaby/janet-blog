@@ -109,14 +109,14 @@ Export pre-coded transactions, matched with receipts and VAT details—saving ho
 
 ## Spendesk vs. Traditional Expense Management
 
-| Feature                    | Traditional Tools (Excel/ERP) | Spendesk      |
-| -------------------------- | ----------------------------- | ------------- |
-| Paperless Receipts         | ❌ Manual Uploads             | - Yes         |
-| Real-Time Expense Tracking | ❌ Delayed                    | - Instant     |
-| Pre-approvals              | ❌ Rarely Used                | - Integrated  |
-| Employee Empowerment       | ❌ Limited                    | - Smart Cards |
-| Month-End Close            | ❌ Time-Consuming             | - Streamlined |
-| Accounting Integration     | ❌ Export/Import Hassle       | - Seamless    |
+| Feature                    | Traditional Tools (Excel/ERP) | Spendesk    |
+| -------------------------- | ---------------------------| ------------|
+| Paperless Receipts         | Manual Uploads             | Yes         |
+| Real-Time Expense Tracking | Delayed                    | Instant     |
+| Pre-approvals              | Rarely Used                | Integrated  |
+| Employee Empowerment       | Limited                    | Smart Cards |
+| Month-End Close            | Time-Consuming             | Streamlined |
+| Accounting Integration     | Export/Import Hassle       | Seamless    |
 
 ---
 
@@ -124,7 +124,7 @@ Export pre-coded transactions, matched with receipts and VAT details—saving ho
 
 Let’s walk through a real-world use case:
 
-### 🎯 Scenario:
+### Scenario:
 
 Emma, a Marketing Manager, needs to run a paid campaign on LinkedIn for €1,000.
 
@@ -156,20 +156,20 @@ Plus, Spendesk offers **multi-factor authentication** and **compliance with GDPR
 
 ## Benefits for Different Stakeholders
 
-### 💼 For Finance Teams
+### For Finance Teams
 
 - Close books faster
 - Automate reconciliation
 - Ensure policy compliance
 - Focus on strategy, not admin
 
-### 👨‍💼 For Managers
+### For Managers
 
 - Approve requests on-the-go
 - Stay within budget
 - Gain real-time visibility into team spending
 
-### 🧑‍💻 For Employees
+### For Employees
 
 - No out-of-pocket payments
 - Easy mobile receipt uploads
@@ -213,10 +213,10 @@ Spendesk is best suited for **European businesses** and teams looking for **a ce
 
 To help you get started, Spendesk offers:
 
-- 🎓 **Onboarding Webinars**
-- 📘 **Help Center & Knowledge Base**
-- 💬 **Live Chat Support**
-- 🧠 **Spendesk Academy** – Tips, guides, and certifications
+- **Onboarding Webinars**
+- **Help Center & Knowledge Base**
+- **Live Chat Support**
+- **Spendesk Academy** – Tips, guides, and certifications
 
 They also host community events like CFO Connect, where finance professionals share best practices.
 
@@ -233,7 +233,5 @@ By using Spendesk:
 - Leaders get real-time visibility
 
 If your business struggles with delayed reimbursements, poor spend visibility, or painful month-end closures, it’s time to upgrade your expense management with **Spendesk**.
-
-🔗 Explore more at: [www.spendesk.com](https://www.spendesk.com)
 
 ---
