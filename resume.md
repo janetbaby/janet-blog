@@ -12,7 +12,7 @@ I’m passionate about playing with numbers, financial clarity, clean spreadshee
 
 ## Where I’m At Right Now
 
-💼 **Working Student – Accounts Payable @ Personio (Aug 2024 – Present)**  
+**Working Student – Accounts Payable @ Personio (Aug 2024 – Present)**  
 - Streamlining invoices like a pro  
 - Creating SOPs so everything makes sense  
 - Month-end closures? Been there, done that.  
@@ -24,7 +24,7 @@ I’m passionate about playing with numbers, financial clarity, clean spreadshee
 
 **Senior Finance Consultant – Tesco Ltd (May 2023 – Apr 2024)**  
 - Resolved tricky invoice issues  
-- Built dashboards 📊  
+- Built dashboards 
 - Chatted with suppliers, sorted disputes, and kept the peace  
 
 **Associate – Financial Accounting (R2R) – Tesco Ltd (Sept 2019 – Apr 2023)**  
@@ -37,7 +37,7 @@ I’m passionate about playing with numbers, financial clarity, clean spreadshee
 ## What I Know
 
 - SAP (FI, MM, BI, SAC), Spendesk, Oracle Fusion  
-- Excel wizardry 🧙‍♀️ (macros, pivots, you name it)  
+- Excel wizardry (macros, pivots, you name it)  
 - Power BI, Python (Pandas & NumPy), SQL  
 - Jira, Confluence, Zendesk, ServiceNow  
 - AI nerdiness: Generative + Agentic AI – I read, I explore, I test
