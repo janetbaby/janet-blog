@@ -75,27 +75,27 @@ IBM Mainframes don’t operate in isolation. They utilize a stack of software to
 
 A typical financial accounting process on a mainframe might include:
 
-### 🧾 1. **Data Collection**
+### 1. **Data Collection**
 
 - Transactions are captured from multiple systems (e.g., branches, ATMs, ERP)
 - Data is written to **VSAM files** or **DB2 tables**
 
-### 📚 2. **Journalizing and Ledger Posting**
+### 2. **Journalizing and Ledger Posting**
 
 - COBOL programs process entries and validate accounting rules
 - Entries are posted to subledgers and general ledger in batch or real-time
 
-### 🔄 3. **Reconciliations**
+### 3. **Reconciliations**
 
 - Automatic or manual processes check balances between modules
 - Exception reports generated using JCL jobs
 
-### 📊 4. **Financial Reporting**
+### 4. **Financial Reporting**
 
 - Trial balances, income statements, and balance sheets generated
 - Reports may be exported to Excel, PDF, or consumed by BI tools
 
-### 🗂️ 5. **Audit Logging and Compliance**
+### 5. **Audit Logging and Compliance**
 
 - All financial entries are logged for traceability
 - Often required by SOX, IFRS, or local accounting standards
@@ -114,21 +114,21 @@ A typical financial accounting process on a mainframe might include:
 
 ## Common Use Cases
 
-### 🏦 Banking and Credit Unions
+### Banking and Credit Unions
 
 - Daily batch processing of transactions
 - Core banking accounting systems (GL, subledger, loan reconciliation)
 
-### 🧾 Insurance Companies
+### Insurance Companies
 
 - Premium postings, claims accounting, actuarial data management
 
-### 🛃 Government and Public Sector
+### Government and Public Sector
 
 - Treasury and disbursement processing
 - Fund and grant accounting
 
-### 🏢 Large Enterprises
+### Large Enterprises
 
 - Payroll processing
 - Financial close and consolidation
@@ -139,10 +139,10 @@ A typical financial accounting process on a mainframe might include:
 
 While mainframes remain powerful, they come with challenges:
 
-❌ **Talent Shortage** – COBOL and mainframe skills are aging and scarce  
-❌ **Modernization Costs** – Integration with cloud or modern ERP systems can be expensive  
-❌ **Complexity** – Systems are often monolithic and hard to decouple  
-❌ **Limited Flexibility** – Changes can require lengthy test and deployment cycles
+**Talent Shortage** – COBOL and mainframe skills are aging and scarce  
+**Modernization Costs** – Integration with cloud or modern ERP systems can be expensive  
+**Complexity** – Systems are often monolithic and hard to decouple  
+**Limited Flexibility** – Changes can require lengthy test and deployment cycles
 
 ---
 
@@ -150,19 +150,19 @@ While mainframes remain powerful, they come with challenges:
 
 Organizations aren’t always looking to replace mainframes but rather **extend or modernize** them. Some common approaches include:
 
-### 🔗 API Enablement
+### API Enablement
 
 Expose mainframe financial functions (e.g., GL posting) as APIs to integrate with cloud apps.
 
-### ☁️ Hybrid Architecture
+### Hybrid Architecture
 
 Use mainframe for core processing and cloud for reporting, dashboards, or ML forecasting.
 
-### 📦 Microservice Wrappers
+### Microservice Wrappers
 
 Encapsulate legacy accounting modules in microservices for modular deployment.
 
-### 🧠 Skill Bridging
+### Skill Bridging
 
 Train younger developers in COBOL or use modern wrappers like IBM Z Open Editor (VS Code plugin).
 
@@ -183,11 +183,5 @@ IBM Mainframes have long powered the financial systems of the world—and they c
 For finance professionals, understanding how accounting works in a mainframe environment is a valuable asset—especially in industries like banking, insurance, and government where these systems remain dominant.
 
 While modernization is underway in many places, the mainframe is here to stay—evolving from a standalone legacy system into a **powerful player in hybrid financial architectures**.
-
----
-
-📘 **Want to learn more?** In our next article, we’ll cover _“Bridging IBM Mainframe Accounting with Cloud Analytics.”_
-
-🛠️ **Need help managing your mainframe accounting environment?** Our experts can support your transition or optimization efforts.
 
 ---
