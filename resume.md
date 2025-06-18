@@ -62,7 +62,7 @@ Bachelor of Commerce @ Sahyadri College – *2017*
 ## Fun Fact
 
 When I’m not decoding financial KPIs, I write blogs like this:  
-[janetbaby.github.io/janet-blog](https://janetbaby.github.io/janet-blog)
+[janetbaby.com](https://janetbaby.github.io/janet-blog)
 
 ---
 
