@@ -69,5 +69,3 @@ If you're considering studying in Germany, I’d say:
 My journey is just beginning, but I already feel that Hochschule Landshut is shaping me into a **globally-minded, practically skilled professional**. I’m excited about what’s ahead and thankful for the support I’ve received.
 
 ---
-
-```
