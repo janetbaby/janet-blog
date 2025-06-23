@@ -4,7 +4,7 @@ title: "Designing Visually Impactful Business Presentations with PowerPoint"
 categories: presentation design
 ---
 
-<img src="{{ site.baseurl }}/assets/images/ppt-business-design.jpg" alt="Business Presentation Design" style="width:100%; height:auto;" />
+<img src="{{ site.baseurl }}/assets/images/ppt-business-design.jpg" alt="Business Presentation Designs" style="width:100%; height:auto;" />
 
 In today’s fast-paced business environment, PowerPoint presentations remain one of the most effective tools for communication—whether you're pitching a strategy, presenting quarterly results, or onboarding new clients. However, many presentations fall flat due to poor design, cluttered slides, or inconsistent formatting. Creating visually impactful presentations is a skill that professionals across functions can benefit from mastering.
 
