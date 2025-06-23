@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student Experience at Hochschule Landshut: Janet’s Journey in International Business"
+title: "Student Experience at Hochschule Landshut: My Journey in International Business"
 categories: education student-life
 ---
 
