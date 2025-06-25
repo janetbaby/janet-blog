@@ -21,11 +21,11 @@
 title: "Journals of Janet"
 description: Just my scribblings on finance, money, growth—and a bit of everything in between.
 author: Janet Baby
-#theme: minima
+theme: minima
 
 # Build settings
-#theme: minima
-remote_theme: pages-themes/tactile@v0.2.0
+theme: minima
+#remote_theme: pages-themes/tactile@v0.2.0
 
 header_pages:
   - index.md
