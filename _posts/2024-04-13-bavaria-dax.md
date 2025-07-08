@@ -27,9 +27,9 @@ makes Bavaria an ideal ecosystem for businesses of all sizes.
 
 Some of **Germany’s largest publicly listed companies (on the DAX)** have their headquarters in Bavaria, including:
 
+- **Allianz** – One of the world’s leading insurance and financial services groups
 - **Siemens AG** – A global leader in industrial automation and digitalization
 - **BMW** – Renowned for engineering and automotive innovation
-- **Allianz** – One of the world’s leading insurance and financial services groups
 - **Infineon Technologies** – A pioneer in semiconductor and chip technology
 
 These companies not only bring billions in revenue but also create thousands of jobs, contribute to global exports, and drive R&D in next-gen technologies.
@@ -50,8 +50,8 @@ Many successful startups—from mobility apps to AI platforms—have emerged fro
 
 ## Key Sectors Thriving in Bavaria
 
-- **Mobility & Automotive Tech**  
-- **FinTech & InsurTech**  
+- **FinTech & InsurTech** 
+- **Mobility & Automotive Tech**   
 - **Green Energy & Sustainability**  
 - **Healthcare & Biotech**  
 - **Cybersecurity & AI**
