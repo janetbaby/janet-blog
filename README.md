@@ -1,4 +1,3 @@
----
 
 # janetbaby.com ✨📝
 
