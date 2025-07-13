@@ -8,7 +8,7 @@ Here’s a close‑up look at the **Master’s in International Business** progr
 
 ---
 
-## 🎯 Programme Overview
+##  Programme Overview
 
 - **Degree**: Master of Arts (M.A.) in International Business Administration  
 - **Duration**: 3 semesters (90 ECTS), full‑time  
@@ -17,7 +17,7 @@ Here’s a close‑up look at the **Master’s in International Business** progr
 
 ---
 
-## 📘 Core Modules (Semester 1 at Landshut)
+##  Core Modules (Semester 1 at Landshut)
 
 In the first semester, all core modules are taught in English (except one German‑taught course):
 
@@ -30,7 +30,7 @@ In the first semester, all core modules are taught in English (except one German
 
 ---
 
-## 🌍 Semester 2 & 3: Specialisation & Thesis
+##  Semester 2 & 3: Specialisation & Thesis
 
 - **Semester 2**: Option to study abroad at a partner university (double‑degree option) —specialisation tracks available (e.g. finance, marketing, HR) depending on host institution.  
   Alternately, students may remain in Landshut, selecting elective modules via the Virtual University of Bavaria (VHB) plus on‑campus English instruction. :contentReference[oaicite:4]{index=4}  
@@ -39,7 +39,7 @@ In the first semester, all core modules are taught in English (except one German
 
 ---
 
-## 🏛️ International Orientation & Degree Flexibility
+##  International Orientation & Degree Flexibility
 
 - Students are encouraged to spend **one to two semesters abroad** at partner universities in Ireland, Sweden, UK, Spain, or Australia—with the possibility to earn a **double degree**. :contentReference[oaicite:6]{index=6}  
 
@@ -53,7 +53,7 @@ In the first semester, all core modules are taught in English (except one German
 
 ---
 
-## 🎓 Targeted Outcomes
+##  Targeted Outcomes
 
 Upon completion, graduates are equipped for **mid‑ to senior‑level roles** at international and multinational businesses—particularly in domains such as:
 
@@ -63,14 +63,14 @@ Upon completion, graduates are equipped for **mid‑ to senior‑level roles** a
 
 ---
 
-## ✅ Admission Requirements
+##  Admission Requirements
 
 - A relevant business‑focused Bachelor’s degree (typically ~210 ECTS in business administration) or equivalent; applicants with 180–210 ECTS in business studies may be admitted upon proof of ≥ 900 hours professional experience in economics-related roles. :contentReference[oaicite:10]{index=10}  
 - Proficiency in **English and German** at CEFR level C1. :contentReference[oaicite:11]{index=11}
 
 ---
 
-## 🧩 Why This Course Stands Out
+##  Why This Course Stands Out
 
 - **Global focus**: strong integration of international business strategy, finance, and operations  
 - **High flexibility**: ability to specialise via electives or partner institutions  
@@ -79,7 +79,7 @@ Upon completion, graduates are equipped for **mid‑ to senior‑level roles** a
 
 ---
 
-## 📝 Quick Summary Table
+##  Quick Summary Table
 
 | Feature                      | Details                                                                 |
 |-----------------------------|-------------------------------------------------------------------------|
