@@ -144,5 +144,3 @@ From **SAP R/1** to **SAP S/4HANA**, the journey of SAP reflects not just the ev
 SAP continues to innovate—empowering organizations of all sizes to **simplify processes, drive agility, and deliver value** in an ever-changing market.
 
 As we look ahead, the shift to **cloud ERP** and **intelligent technologies** will define the next chapter in the SAP story.
-
-If you’re considering your SAP transformation journey, explore more about **SAP S/4HANA Cloud** or contact SAP partners for tailored advice.
