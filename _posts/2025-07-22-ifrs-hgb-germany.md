@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding IFRS and HGB: Financial Reporting Standards in Germany"
-categories: accounting standards
+categories: accounting standards in Germany
 ---
 
 <img src="{{ site.baseurl }}/assets/images/ifrs-hgb-germany.jpg" alt="IFRS vs. HGB" style="width:100%; height:auto;" />
