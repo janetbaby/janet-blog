@@ -6,25 +6,32 @@ permalink: /resume/
 
 # Hey, I'm Janet!
 
-I’m passionate about playing with numbers, financial clarity, clean spreadsheets, and crafting SOPs that actually make sense. Currently based in **Munich**, I am a **Working student in Accounts Payable at Personio Munich** while pursuing my **Master’s in International Business** in **Hochschule Landshut**.
+I’m passionate about playing with numbers, financial clarity, clean spreadsheets, and crafting SOPs that actually make sense. Currently based in **Munich**, I am a **Working Student in Office Management & Finance at Edwards Life Sciences, Garching**, while pursuing my **Master’s in International Business** at **Hochschule Landshut**.
 
 ---
 
 ## Where I’m At Right Now
 
-**Working Student – Accounts Payable @ Personio (Aug 2024 – Present)**  
-- Streamlining invoices like a pro  
-- Creating SOPs so everything makes sense  
-- Month-end closures? Been there, done that.  
-- Oh, and SAP + Excel = my playground  
+**Working Student – Office Management & Finance @ Edwards Life Sciences (Sept 2024 – Present)**  
+- Processing internal invoices with accuracy  
+- Coordinating and managing office events  
+- Handling internal financial tasks and support  
+- Balancing 20 hours per week alongside my studies  
+- Perks I enjoy: DB ticket, gym vouchers, meal vouchers  
 
 ---
 
 ## Where I’ve Been
 
+**Working Student – Accounts Payable @ Personio (Aug 2024 – Jul 2025)**  
+- Streamlined invoices like a pro  
+- Created SOPs so everything made sense  
+- Managed month-end closures under tight timelines  
+- Gained hands-on experience with SAP and Excel in real-world finance  
+
 **Senior Finance Consultant – Tesco Ltd (May 2023 – Apr 2024)**  
 - Resolved tricky invoice issues  
-- Built dashboards 
+- Built dashboards  
 - Chatted with suppliers, sorted disputes, and kept the peace  
 
 **Associate – Financial Accounting (R2R) – Tesco Ltd (Sept 2019 – Apr 2023)**  
@@ -40,7 +47,7 @@ I’m passionate about playing with numbers, financial clarity, clean spreadshee
 - Excel wizardry (macros, pivots, you name it)  
 - Power BI, Python (Pandas & NumPy), SQL  
 - Jira, Confluence, Zendesk, ServiceNow  
-- AI nerdiness: Generative + Agentic AI – I read, I explore, I test
+- AI nerdiness: Generative + Agentic AI – I read, I explore, I test  
 
 ---
 
